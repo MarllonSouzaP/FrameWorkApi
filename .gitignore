@@ -1,0 +1,16 @@
+.idea
+*.pyc
+*.pyo
+.DS_Store
+node_modules
+*.iml
+target
+/csharp/.vs
+/csharp/Api/bin
+/csharp/Api/obj
+/csharp/Payloads/bin
+/csharp/Payloads/obj
+/csharp/Tests/bin
+/csharp/Tests/obj
+/csharp/TestResults
+/csharp/packages
